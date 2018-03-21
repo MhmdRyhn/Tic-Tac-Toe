@@ -1,5 +1,5 @@
 # TicTacToe
-"Tic Tac Toe" game developed with Python on Linux
+***Tic Tac Toe*** game developed with Python on Linux
 
 **Modules used to implement the game:**
 ```
